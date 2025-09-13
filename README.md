@@ -42,9 +42,7 @@ It provides insights into call volume, revenue, customer satisfaction, and repre
 
 ---
 
-## 📽️ Demo Video
-Watch the walkthrough here:  
-*(Upload to GitHub repo OR YouTube and paste the link here)*  
+
 
 ---
 
