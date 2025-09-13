@@ -6,7 +6,7 @@ It provides insights into call volume, revenue, customer satisfaction, and repre
 ---
 
 ## 🖼️ Dashboard Preview
-![Call Centre Dashboard](c377ceba-fefc-4e12-8657-8be2dc85a81e.png)
+Screenshot 2025-09-13 211022.png
 
 ---
 
